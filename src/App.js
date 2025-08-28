@@ -120,11 +120,7 @@ function App() {
             <p>Console app for student records.</p>
             <a href="https://github.com/Ashi-codes/student-management-system" target="_blank" rel="noreferrer">View Code</a>
           </div>
-          <div className="project-card">
-            🌍 <b>Travel Agency Website</b>
-            <p>Responsive travel booking website.</p>
-            {/* <a href="https://github.com/Ashi-codes/travel-website" target="_blank" rel="noreferrer">View Code</a> */}
-          </div>
+
           <div className="project-card">
             🎵 <b>Music App (Flutter)</b>
             <p>Cross-platform music player app.</p>
