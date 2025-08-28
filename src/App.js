@@ -113,12 +113,12 @@ function App() {
           <div className="project-card">
             💻 <b>E-Commerce Store (C++ DSA)</b>
             <p>Created an e-commerce store using data structures.</p>
-            {/* <a href="https://github.com/Ashi-codes/ecommerce-store" target="_blank" rel="noreferrer">View Code</a> */}
+            <a href="https://github.com/Ashi-codes/ecommerce-store" target="_blank" rel="noreferrer">View Code</a>
           </div>
           <div className="project-card">
             📚 <b>Student Management System (C++)</b>
             <p>Console app for student records.</p>
-            {/* <a href="https://github.com/Ashi-codes/student-management" target="_blank" rel="noreferrer">View Code</a> */}
+            <a href="https://github.com/Ashi-codes/student-management-system" target="_blank" rel="noreferrer">View Code</a>
           </div>
           <div className="project-card">
             🌍 <b>Travel Agency Website</b>
@@ -128,7 +128,7 @@ function App() {
           <div className="project-card">
             🎵 <b>Music App (Flutter)</b>
             <p>Cross-platform music player app.</p>
-            <a href="https://github.com/Ashi-codes/flutter-music-app" target="_blank" rel="noreferrer">View Code</a>
+            <a href="https://github.com/Ashi-codes/fullscreens" target="_blank" rel="noreferrer">View Code</a>
           </div>
         </div>
       </section>
